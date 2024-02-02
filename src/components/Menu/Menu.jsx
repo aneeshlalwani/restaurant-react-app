@@ -8,6 +8,7 @@ import Menu3 from '../../assets/images/pizza-3.jpg';
 import Menu4 from '../../assets/images/burger-1.jpg';
 import Menu5 from '../../assets/images/burger-2.jpg';
 import Menu6 from '../../assets/images/burger-3.jpg';
+
 const Menu = () => {
     const cardsData = [{
         title: 'Chicken Fajita Sicillian',
